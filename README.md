@@ -7,12 +7,12 @@ Voici un HUD rework en 10 minutes, cette hud à réaliser pour plusieurs personn
 
  - 📸 PREVIEWS
  
-[screenshot](https://cdn.discordapp.com/attachments/972631845722275870/981667287352365107/unknown.png)
+![screenshot](https://cdn.discordapp.com/attachments/972631845722275870/981667287352365107/unknown.png)
  
 # Requirements
 
 - 🧪 ESX STATUS
-- [esx_status](https://github.com/ChemaSanchez/esx_status) 
+- ![esx_status](https://github.com/ChemaSanchez/esx_status) 
 
 # Help
 
