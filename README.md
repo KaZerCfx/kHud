@@ -12,7 +12,7 @@ Voici un HUD rework en 10 minutes, cette hud à réaliser pour plusieurs personn
 # Requirements
 
 - 🧪 ESX STATUS
-- ![esx_status](https://github.com/ChemaSanchez/esx_status) 
+- [esx_status](https://github.com/ChemaSanchez/esx_status) 
 
 # Help
 
