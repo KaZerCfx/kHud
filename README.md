@@ -17,7 +17,7 @@ Voici un HUD rework en 10 minutes, cette hud à réaliser pour plusieurs personn
 # Help
 
 - 🙋🏻‍♂️ HELP 
-Si vous avez besoin d'aide pour l'installation : https://discord.gg/XvD25ByyVY
+Si vous avez besoin d'aide pour l'installation : [Discord] https://discord.gg/XvD25ByyVY
 
 # Author 
 Discord : KaZer#9999
