@@ -2,7 +2,10 @@
 
 Hello, 
 
-Voici un HUD rework en 10 minutes, cette hud à réaliser pour plusieurs personnes qui demander celui de FlashLandFA :)
+Voici un HUD rework en 10 minutes, cette hud à réaliser pour plusieurs personnes qui demander celui de FlashLandFA.
+
+# Tuto 
+Vous pouvez retouver 2 fichiers zip : esx_khud celui pour les bases esx et 12ressources_kud celui pour la base 12 resources.
 
 # Preview
 
