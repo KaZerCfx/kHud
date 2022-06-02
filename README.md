@@ -12,7 +12,7 @@ Voici un HUD rework en 10 minutes, cette hud à réaliser pour plusieurs personn
 
 esx_status
 
-N'oubliez de rajouter cela à votre serveur : [esx_status](https://github.com/KaZerCfx/esx_status)
+ATTENTION UTILISER QUE CE ESX_STATUS POUR QUE LE HUD MARCHE : [esx_status](https://github.com/KaZerCfx/esx_status)
 
 # Tuto
 Comment installer le khud ?
@@ -43,11 +43,9 @@ Here is a HUD rework in 10 minutes, this hud to be made for several people who r
  
 ![screenshot](https://cdn.discordapp.com/attachments/972631845722275870/981667287352365107/unknown.png)
  
-# Required
+# Esx_Status
 
-esx_status
-
-Don't forget to add this to your server: [esx_status](https://github.com/KaZerCfx/esx_status)
+ATTENTION USE ONLY THIS ESX_STATUS FOR THE HUD TO WORK : [esx_status](https://github.com/KaZerCfx/esx_status)
 
 # Tuto
 How to install the khud ?
