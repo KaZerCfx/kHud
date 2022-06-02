@@ -32,7 +32,7 @@ Discord : KaZer#9999
 
 ___________________________
 
-English
+# English
 
 Hi, 
 Here is a HUD rework in 10 minutes, this hud to be made for several people who request the one of FlashLandFA.
@@ -63,5 +63,3 @@ If you need help with the installation: [Discord](https://discord.gg/XvD25ByyVY)
 
 # Author 
 Discord: KaZer#9999
-
-Translated with www.DeepL.com/Translator (free version)
