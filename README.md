@@ -1,6 +1,7 @@
-# KHUD STYLE FLASHLAND FA
+# KHUD STYLE FLASHLAND FA (FR)
 
 Salut, 
+
 Voici un HUD rework en 10 minutes, cette hud à réaliser pour plusieurs personnes qui demander celui de FlashLandFA.
 
 # Aperçu
@@ -27,14 +28,15 @@ ensure khud
 
 Si vous avez besoin d'aide pour l'installation : [Discord](https://discord.gg/XvD25ByyVY)
 
-# Author 
+# Auteur 
 Discord : KaZer#9999
 
 ___________________________
 
-# English
+# KHUD STYLE FLASHLAND FA (EN)
 
 Hi, 
+
 Here is a HUD rework in 10 minutes, this hud to be made for several people who request the one of FlashLandFA.
 
 # Preview
